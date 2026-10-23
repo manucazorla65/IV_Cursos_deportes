@@ -2,3 +2,5 @@
 /.venv
 *.log
 data/
+__pycache__/
+*.py[cod]
